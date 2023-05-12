@@ -1,11 +1,11 @@
 # Fin-Tech-Module-7
-This module allow the exploration of tools such that we can chart Hvplots, making a more interactive user experience
+This module includes sql components that allow us to explore the inner workings of sql and how it can be used in real world applications.
 
 ---
 
 ## Technologies
 
-Python, Path, Pandas, hvplot
+Python, Path, Pandas, hvplot, sqlachemy
 
 ---
 
